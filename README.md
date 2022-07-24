@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moussa Sahli
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node JS
-- 📫 How to reach me: sahli moussa on linkedin and my professional email address
+- 📫 How to reach me: sahli moussa on linkedin and my professional email address: sahlimoussadev@gmail.com
 
 <!---
 MoeShoe/MoeShoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
